@@ -197,7 +197,7 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Depu Meng, Xiaokang Chen, Zejia Fan, Gang Zeng, Houqiang Li, Yuhui Yuan, Lei Sun, Jingdong Wang.*<br>
  [[PDF](https://arxiv.org/abs/2108.06152)] [[Github](https://github.com/atten4vis/conditionaldetr)]
  
-**Anchor DETR: Query Design for Transformer-Based Object Detection.** [4th Jan. 2022].<br>
+**Anchor DETR: Query Design for Transformer-Based Object Detection.** [4th Jan. 2022] [AAAI 2021].<br>
 *Yingming Wang, Xiangyu Zhang, Tong Yang, Jian Sun.*<br>
  [[PDF](https://arxiv.org/abs/2109.07107)] [[Github](https://github.com/megvii-research/AnchorDETR)]
  
