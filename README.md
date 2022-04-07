@@ -1,7 +1,7 @@
-# <p align=center> This repo supplements our [A Survey of Visual Transformers](https://arxiv.org/abs/2111.06091)</p>
+# <p align=center> [A Survey of Visual Transformers](https://arxiv.org/abs/2111.06091)</p>
 
   
- [Yang Liu](https://scholar.google.com/citations?user=ock4qjYAAAAJ&hl=zh-CN), [Yao Zhang](https://scholar.google.com/citations?user=vxfJSJIAAAAJ&hl=zh-CN), [Yixin Wang](https://scholar.google.com/citations?user=ykYrXtAAAAAJ&hl=zh-CN), [Feng Hou](https://scholar.google.com/citations?user=gp-OCDoAAAAJ&hl=zh-CN), [Jin Yuan](https://scholar.google.com/citations?hl=zh-CN&user=S1JGPCMAAAAJ), [Jiang Tian](https://scholar.google.com/citations?user=CC_HnVQAAAAJ&hl=zh-CN), [Yang Zhang](https://scholar.google.com/citations?user=fwg2QysAAAAJ&hl=zh-CN), [Zhongchao Shi](https://scholar.google.com/citations?hl=zh-CN&user=GASgQxEAAAAJ), [JianPing Fan](https://scholar.google.com/citations?user=-YsOqQcAAAAJ&hl=zh-CN), [Zhiqiang He](https://ieeexplore.ieee.org/author/37085386255)
+##### <p align=center> [Yang Liu](https://scholar.google.com/citations?user=ock4qjYAAAAJ&hl=zh-CN), [Yao Zhang](https://scholar.google.com/citations?user=vxfJSJIAAAAJ&hl=zh-CN), [Yixin Wang](https://scholar.google.com/citations?user=ykYrXtAAAAAJ&hl=zh-CN), [Feng Hou](https://scholar.google.com/citations?user=gp-OCDoAAAAJ&hl=zh-CN), [Jin Yuan](https://scholar.google.com/citations?hl=zh-CN&user=S1JGPCMAAAAJ), [Jiang Tian](https://scholar.google.com/citations?user=CC_HnVQAAAAJ&hl=zh-CN), [Yang Zhang](https://scholar.google.com/citations?user=fwg2QysAAAAJ&hl=zh-CN), [Zhongchao Shi](https://scholar.google.com/citations?hl=zh-CN&user=GASgQxEAAAAJ), [JianPing Fan](https://scholar.google.com/citations?user=-YsOqQcAAAAJ&hl=zh-CN), [Zhiqiang He](https://ieeexplore.ieee.org/author/37085386255)</p>
 
 
 
