@@ -7,7 +7,7 @@
 
 # <p align=center>`Awesome Visual Transformers`</p>
 
-A curated list of awesome visual Transformers resources (**corresponding to the original order of oru survey**), inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. If you find some overlooked papers, please open an issue or contact at liuyang20c@mails.ucas.ac.cn.
+A curated list of awesome visual Transformers resources (**corresponding to the original order of our survey**), inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. If you find some overlooked papers, please open an issue or contact at liuyang20c@mails.ucas.ac.cn.
 
 ## Overview
 - [Original Transformer](#original-transformer)
