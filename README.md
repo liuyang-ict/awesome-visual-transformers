@@ -10,13 +10,13 @@
 A curated list of awesome Transformers resources in medical imaging (**in chronological order**), inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. If you find some overlooked papers, please open an issue or contact at liuyang20c@mails.ucas.ac.cn.
 
 ## Overview
-- [Original Transformer](#original)
-- [Transformer for Classification](#classification)
-- [Transformer for Detection](#detection)
-- [Transformer for Segmentation](#segmentation)
-- [Transformer for 3D Visual Recognition](#3D)
-- [Transformer for Multi-Sensory Data Stream](#multisensory)
-- [Theoritical](#theoritical)
+- [Original Transformer](#original-transformer)
+- [Transformer for Classification](#transformer-for-classification)
+- [Transformer for Detection](#transformer-for-detection)
+- [Transformer for Segmentation](#transformer-for-segmentation)
+- [Transformer for 3D Visual Recognition](#transformer-for-3d-visual-recognition)
+- [Transformer for Multi-Sensory Data Stream](#transformer-for-multi-sensory-data-stream)
+- [Theoretical](#theoretical)
 
 
 # Original Transformer
@@ -385,7 +385,7 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 # Transformer for Multi-Sensory Data Stream
 Coming soon... 
 
-# Thoretical
+# Theoretical
 Coming soon... 
 
 # Citation
