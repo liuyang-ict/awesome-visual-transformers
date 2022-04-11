@@ -408,7 +408,7 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 *Aljaž Božič, Pablo Palafox, Justus Thies, Angela Dai, Matthias Nießner.*<br>
  [[PDF](https://arxiv.org/abs/2107.02191)] 
  
-**FUTR3D: A Unified Sensor Fusion Framework for 3D Detection.** [20th Mar. 2022] <br>
+**FUTR3D: A Unified Sensor Fusion Framework for 3D Detection.** [20th Mar. 2022]. <br>
 *Xuanyao Chen, Tianyuan Zhang, Yue Wang, Yilun Wang, Hang Zhao.*<br>
  [[PDF](https://arxiv.org/abs/2203.10642)] 
  
