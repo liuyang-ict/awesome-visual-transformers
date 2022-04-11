@@ -8,7 +8,7 @@
 
 A curated list of awesome visual Transformers resources (**corresponding to the original order of our survey**), inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. If you find some overlooked papers, please open an issue or contact at liuyang20c@mails.ucas.ac.cn.
 
-## Overview
+# Overview
 - [Original Transformer](#original-transformer)
 - [Transformer for Classification](#transformer-for-classification)
 - [Transformer for Detection](#transformer-for-detection)
@@ -25,6 +25,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 
 # Transformer for Classification
 
+### 1. Original Visual Transformer
+
 **Stand-Alone Self-Attention in Vision Models.** [13th Jun. 2019] [NeurIPS, 2019].<br>
 *Prajit Ramachandran, Niki Parmar, Ashish Vaswani, Irwan Bello, Anselm Levskaya, Jonathon Shlens.*<br>
  [[PDF](https://arxiv.org/abs/1906.05909)] [[Github](https://github.com/google-research/google-research)]
@@ -37,6 +39,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 *Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby.*<br>
  [[PDF](https://arxiv.org/abs/2010.11929)] [[Github](https://github.com/google-research/vision_transformer)]
  
+### 2. Transformer Enhanced CNN
+ 
 **Visual Transformers: Token-based Image Representation and Processing for Computer Vision.** [5th Jun 2020].<br>
 *Bichen Wu, Chenfeng Xu, Xiaoliang Dai, Alvin Wan, Peizhao Zhang, Zhicheng Yan, Masayoshi Tomizuka, Joseph Gonzalez, Kurt Keutzer, Peter Vajda.*<br>
  [[PDF](https://arxiv.org/abs/2006.03677)] 
@@ -44,6 +48,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 **Bottleneck Transformers for Visual Recognition.** [2nd Aug. 2021] [CVPR, 2021].<br>
 *Aravind Srinivas, Tsung-Yi Lin, Niki Parmar, Jonathon Shlens, Pieter Abbeel, Ashish Vaswani.*<br>
  [[PDF](https://arxiv.org/abs/2101.11605)] [[Github](https://github.com/rwightman/pytorch-image-models)]
+ 
+### 3. CNN Enhanced Transformer
  
 **Training data-efficient image transformers & distillation through attention.** [15th Jan. 2021] [ICML, 2021].<br>
 *Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou.*<br>
@@ -77,6 +83,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 *Zihang Dai, Hanxiao Liu, Quoc V. Le, Mingxing Tan.*<br>
  [[PDF](https://arxiv.org/abs/2106.04803)] [[Github](https://github.com/chinhsuanwu/coatnet-pytorch)]
  
+### 4. Transfomrer with Local Attention
+ 
 **Scaling Local Self-Attention for Parameter Efficient Visual Backbones.** [7th Jun. 2021] [CVPR, 2021].<br>
 *Ashish Vaswani, Prajit Ramachandran, Aravind Srinivas, Niki Parmar, Blake Hechtman, Jonathon Shlens.*<br>
  [[PDF](https://arxiv.org/abs/2103.12731)] [[Github](https://github.com/rwightman/pytorch-image-models)]
@@ -105,6 +113,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 *Jianwei Yang, Chunyuan Li, Pengchuan Zhang, Xiyang Dai, Bin Xiao, Lu Yuan, Jianfeng Gao.*<br>
  [[PDF](https://arxiv.org/abs/2107.00641)] [[Github](https://github.com/microsoft/Focal-Transformer)]
  
+### 5. Hierarchical Transformer
+ 
 **Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet.** [30th Nov. 2021] [ICCV, 2021].<br>
 *Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Zihang Jiang, Francis EH Tay, Jiashi Feng, Shuicheng Yan.*<br>
  [[PDF](https://arxiv.org/abs/2101.11986)] [[Github](https://github.com/yitu-opensource/T2T-ViT)]
@@ -125,6 +135,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 *Haiping Wu, Bin Xiao, Noel Codella, Mengchen Liu, Xiyang Dai, Lu Yuan, Lei Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2103.15808)] [[Github](https://github.com/microsoft/CvT)]
  
+### 6. Deep Transfomrer
+ 
 **Going deeper with Image Transformers.** [7th Apr. 2021] [ICCV, 2021].<br>
 *Hugo Touvron, Matthieu Cord, Alexandre Sablayrolles, Gabriel Synnaeve, Hervé Jégou.*<br>
  [[PDF](https://arxiv.org/abs/2103.17239)] [[Github](https://github.com/facebookresearch/deit)]
@@ -140,6 +152,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 **Vision Transformers with Patch Diversification.** [26th Apr. 2021].<br>
 *Chengyue Gong, Dilin Wang, Meng Li, Vikas Chandra, Qiang Liu.*<br>
  [[PDF](https://arxiv.org/abs/2104.12753)] [[Github](https://github.com/ChengyueGongR/PatchVisionTransformer)]
+ 
+### 7. Self-Supervised Transformer
  
 **Generative Pretraining from Pixels.** [14th Nov. 2020] [ICML, 2020].<br>
 *Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
@@ -171,7 +185,9 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
  
 
 # Transformer for Detection
- 
+
+### 1. Original Transformer Detector
+
 **End-to-End Object Detection with Transformers.** [18th May. 2020] [ECCV, 2020].<br>
 *Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko.*<br>
  [[PDF](https://arxiv.org/abs/2005.12872)] [[Github](https://github.com/facebookresearch/detr)]
@@ -179,6 +195,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 **Pix2seq: A Language Modeling Framework for Object Detection.** [27th Mar. 2022] [ICLR, 2022].<br>
 *Ting Chen, Saurabh Saxena, Lala Li, David J. Fleet, Geoffrey Hinton.*<br>
  [[PDF](https://arxiv.org/abs/2109.10852)] [[Github](https://github.com/google-research/pix2seq)]
+ 
+### 2. Sparse Attention
  
 **Deformable DETR: Deformable Transformers for End-to-End Object Detection.** [18th Mar. 2021] [ICLR, 2021].<br>
 *Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.*<br>
@@ -195,6 +213,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 **Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity.** [4th Mar. 2022] [ICLR, 2022].<br>
 *Byungseok Roh, Jaewoong Shin, Wuhyun Shin, Saehoon Kim.*<br>
  [[PDF](https://arxiv.org/abs/2111.14330)] [[Github](https://github.com/kakaobrain/sparse-detr)]
+ 
+### 3. Spatial Prior
  
 **Fast Convergence of DETR with Spatially Modulated Co-Attention.** [19th Jan. 2021] [ICCV, 2021].<br>
 *Peng Gao, Minghang Zheng, Xiaogang Wang, Jifeng Dai, Hongsheng Li.*<br>
@@ -216,6 +236,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 *Xiyang Dai, Yinpeng Chen, Jianwei Yang, Pengchuan Zhang, Lu Yuan, Lei Zhang .*<br>
  [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Dai_Dynamic_DETR_End-to-End_Object_Detection_With_Dynamic_Attention_ICCV_2021_paper.html)]
  
+### 4. Structural Redesign
+ 
 **Rethinking Transformer-based Set Prediction for Object Detection.** [12th Oct. 2021] [ICCV, 2021].<br>
 *Zhiqing Sun, Shengcao Cao, Yiming Yang, Kris Kitani.*<br>
  [[PDF](https://arxiv.org/abs/2011.10881)] [[Github](https://github.com/edward-sun/tsp-detection)]
@@ -223,6 +245,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 **You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection.** [27th Oct. 2021] [NeurIPS, 2021].<br>
 *Yuxin Fang, Bencheng Liao, Xinggang Wang, Jiemin Fang, Jiyang Qi, Rui Wu, Jianwei Niu, Wenyu Liu.*<br>
  [[PDF](https://arxiv.org/abs/2106.00666)]  [[Github](https://github.com/hustvl/YOLOS)]
+
+### 5. Pre-Trained Model 
  
 **UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.** [7th Apr. 2021] [CVPR, 2021].<br>
 *Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.*<br>
@@ -232,6 +256,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 *Wen Wang, Yang Cao, Jing Zhang, DaCheng Tao.*<br>
  [[PDF](https://openreview.net/pdf?id=yjMQuLLcGWK)]  
  
+### 6. Matcing Optimization
+ 
 **DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.** [2nd Mar. 2022] [CVPR, 2022].<br>
 *Feng Li, Hao Zhang, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2203.01305)]  [[Github](https://github.com/IDEA-opensource/DN-DETR)]
@@ -239,6 +265,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.** [7th Mar. 2022].<br>
 *Hao Zhang, Feng Li, Shilong Liu, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum.*<br>
  [[PDF](https://arxiv.org/abs/2203.03605)]  [[Github](https://github.com/IDEACVR/DINO)]
+ 
+### 7. Specialized Backbone for Dense Prediction
  
 **Feature Pyramid Transformer.** [18th Jul. 2020] [ECCV, 2020].<br>
 *Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun.*<br>
@@ -255,6 +283,9 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 
  
 # Transformer for Segmentation
+
+### 1. Patch-Based Transformer
+
 **Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers.** [25th Jul. 2021] [CVPR 2021].<br>
 *Sixiao Zheng, Jiachen Lu, Hengshuang Zhao, Xiatian Zhu, Zekun Luo, Yabiao Wang, Yanwei Fu, Jianfeng Feng, Tao Xiang, Philip H. S. Torr, Li Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2012.15840)] [[Github](https://github.com/fudan-zvg/SETR)]
@@ -266,6 +297,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 **SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers.** [28th Oct. 2021] [NeurIPS 2021].<br>
 *Enze Xie, Wenhai Wang, Zhiding Yu, Anima Anandkumar, Jose M. Alvarez, Ping Luo.*<br>
  [[PDF](https://arxiv.org/abs/2105.15203)] [[Github](https://github.com/NVlabs/SegFormer)]
+ 
+### 2. Query-Based Transformer
  
 **Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov. 2020] [IEEE BIBM 2020].<br>
 *Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
@@ -300,6 +333,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
  [[PDF](https://arxiv.org/abs/2107.06278)] [[Github](https://github.com/facebookresearch/MaskFormer)]
  
 # Transformer for 3D Visual Recognition
+
+### 1. Representation Learning
 
 **Point Transformer.** [16th Dec. 2020] [ICCV 2021].<br>
 *Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun.*<br>
@@ -348,7 +383,9 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 **Masked Discrimination for Self-Supervised Learning on Point Clouds.** [21st Mar. 2022].<br>
 *Haotian Liu, Mu Cai, Yong Jae Lee.*<br>
  [[PDF](https://arxiv.org/abs/2203.11183)] [[Github](https://github.com/haotian-liu/maskpoint)]
- 
+
+### 2. Cognition Mapping
+
 **An End-to-End Transformer Model for 3D Object Detection.** [16th Sep. 2021] [ICCV 2021].<br>
 *Ishan Misra, Rohit Girdhar, Armand Joulin.*<br>
  [[PDF](https://arxiv.org/abs/2109.08141)] [[Github](https://github.com/facebookresearch/3detr)]
@@ -377,6 +414,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 *Xuyang Bai, Zeyu Hu, Xinge Zhu, Qingqiu Huang, Yilun Chen, Hongbo Fu, Chiew-Lan Tai.*<br>
  [[PDF](https://arxiv.org/abs/2203.11496)] [[Github](https://github.com/xuyangbai/transfusion)]
  
+### 3. Specific Processing
+ 
 **PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers.** [19th Aug. 2021] [ICCV 2021].<br>
 *Xumin Yu, Yongming Rao, Ziyi Wang, Zuyan Liu, Jiwen Lu, Jie zhou.*<br>
  [[PDF](https://arxiv.org/abs/2108.08839)] [[Github](https://github.com/yuxumin/PoinTr)]
@@ -390,6 +429,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
  [[PDF](https://arxiv.org/abs/2111.11704)] [[Github](https://github.com/allenxiangx/snowflakenet)]
 
 # Transformer for Multi-Sensory Data Stream
+
+### 1. Homologous Stream with Interactive Fusion
 
 **MVT: Multi-view Vision Transformer for 3D Object Recognition.** [25th Oct. 2021] [BMVC 2021].<br>
 *Shuo Chen, Tan Yu, Ping Li.*<br>
@@ -418,6 +459,8 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 **FUTR3D: A Unified Sensor Fusion Framework for 3D Detection.** [20th Mar. 2022]. <br>
 *Xuanyao Chen, Tianyuan Zhang, Yue Wang, Yilun Wang, Hang Zhao.*<br>
  [[PDF](https://arxiv.org/abs/2203.10642)] 
+ 
+### 2. Homologous Stream with Transfer Fusion
  
 **Multi-view analysis of unregistered medical images using cross-view transformers.** [21th Mar. 2021] [MICCAI 2021].<br>
 *Gijs van Tulder, Yao Tong, Elena Marchiori.*<br>
