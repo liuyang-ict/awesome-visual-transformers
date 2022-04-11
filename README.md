@@ -474,7 +474,10 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 *Diping Song, Bin Fu, Fei Li, Jian Xiong, Junjun He, Xiulan Zhang, Yu Qiao.*<br>
  [[PDF](https://ieeexplore.ieee.org/abstract/document/9422770)]
  
-
+### 3. Heterologous Stream with Visual Grounding
+Coming soon... 
+### 4. Heterologous Stream with Visual Descrtiption
+Coming soon... 
 
 # Theoretical
 Coming soon... 
