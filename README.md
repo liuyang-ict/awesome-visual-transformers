@@ -25,6 +25,14 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 
 # Transformer for Classification
 
+**Stand-Alone Self-Attention in Vision Models.** [13th Jun. 2019] [NeurIPS, 2019].<br>
+*Prajit Ramachandran, Niki Parmar, Ashish Vaswani, Irwan Bello, Anselm Levskaya, Jonathon Shlens.*<br>
+ [[PDF](https://arxiv.org/abs/1906.05909)] [[Github](https://github.com/google-research/google-research)]
+ 
+**On the Relationship between Self-Attention and Convolutional Layers.** [10th Jan. 2020] [ICLR, 2020].<br>
+*Jean-Baptiste Cordonnier, Andreas Loukas, Martin Jaggi.*<br>
+ [[PDF](https://arxiv.org/abs/1911.03584)] [[Github](https://github.com/epfml/attention-cnn)]
+
 **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.** [10th Mar. 2021] [ICLR, 2021].<br>
 *Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby.*<br>
  [[PDF](https://arxiv.org/abs/2010.11929)] [[Github](https://github.com/google-research/vision_transformer)]
