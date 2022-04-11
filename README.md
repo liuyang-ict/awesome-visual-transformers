@@ -383,15 +383,55 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
  [[PDF](https://arxiv.org/abs/2111.11704)] [[Github](https://github.com/allenxiangx/snowflakenet)]
 
 # Transformer for Multi-Sensory Data Stream
-Coming soon... 
+
+**MVT: Multi-view Vision Transformer for 3D Object Recognition.** [25th Oct. 2021] [BMVC 2021].<br>
+*Shuo Chen, Tan Yu, Ping Li.*<br>
+ [[PDF](https://arxiv.org/abs/2110.13083)] 
+ 
+**Multiview Detection with Shadow Transformer (and View-Coherent Data Augmentation).** [12th Aug. 2021] [ACMM 2021].<br>
+*Yunzhong Hou, Liang Zheng.*<br>
+ [[PDF](https://arxiv.org/abs/2108.05888)] [[Github](https://github.com/hou-yz/mvdetr)]
+ 
+**Multi-Modal Fusion Transformer for End-to-End Autonomous Driving.** [19th Apr. 2021] [CVPR 2021].<br>
+*Aditya Prakash, Kashyap Chitta, Andreas Geiger.*<br>
+ [[PDF](https://arxiv.org/abs/2104.09224)] [[Github](https://github.com/autonomousvision/transfuser)]
+ 
+**COTR: Correspondence Transformer for Matching Across Images.** [15th Mar. 2021] [ICCV 2021].<br>
+*Wei Jiang, Eduard Trulls, Jan Hosang, Andrea Tagliasacchi, Kwang Moo Yi.*<br>
+ [[PDF](https://arxiv.org/abs/2103.14167)] [[Github](https://github.com/ubc-vision/COTR)]
+ 
+**Multi-view 3D Reconstruction with Transformer.** [24th Mar. 2021] [ICCV 2021].<br>
+*Dan Wang, Xinrui Cui, Xun Chen, Zhengxia Zou, Tianyang Shi, Septimiu Salcudean, Z. Jane Wang, Rabab Ward.*<br>
+ [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Multi-View_3D_Reconstruction_With_Transformers_ICCV_2021_paper.pdf)] 
+ 
+**TransformerFusion: Monocular RGB Scene Reconstruction using Transformers.** [15th Mar. 2021] [NeurIPS 2021].<br>
+*Aljaž Božič, Pablo Palafox, Justus Thies, Angela Dai, Matthias Nießner.*<br>
+ [[PDF](https://arxiv.org/abs/2107.02191)] 
+ 
+**FUTR3D: A Unified Sensor Fusion Framework for 3D Detection.** [20th Mar. 2022] <br>
+*Xuanyao Chen, Tianyuan Zhang, Yue Wang, Yilun Wang, Hang Zhao.*<br>
+ [[PDF](https://arxiv.org/abs/2203.10642)] 
+ 
+**Multi-view analysis of unregistered medical images using cross-view transformers.** [21th Mar. 2021] [MICCAI 2021].<br>
+*Gijs van Tulder, Yao Tong, Elena Marchiori.*<br>
+ [[PDF](https://arxiv.org/abs/2103.11390)] [[Github](https://github.com/gvtulder/cross-view-transformers)]
+ 
+**Multi-view Depth Estimation using Epipolar Spatio-Temporal Networks.** [26th Nov. 2020] [CVPR 2021].<br>
+*Xiaoxiao Long, Lingjie Liu, Wei Li, Christian Theobalt, Wenping Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2011.13118)] [[Github](https://github.com/xxlong0/ESTDepth)]
+ 
+**Deep relation transformer for diagnosing glaucoma with optical coherence tomography and visual field function.** [26th Sep. 2021] [TMI 2021].<br>
+*Diping Song, Bin Fu, Fei Li, Jian Xiong, Junjun He, Xiulan Zhang, Yu Qiao.*<br>
+ [[PDF](https://ieeexplore.ieee.org/abstract/document/9422770)]
+ 
+
 
 # Theoretical
 Coming soon... 
 
 # Citation
 
-If you find the listing and survey useful for your work, please cite the paper:
-
+If you find the listing and survey helpful, please cite it as follows:
 ```
 @article{liu2021survey,
   title={A Survey of Visual Transformers},
