@@ -474,8 +474,50 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 *Diping Song, Bin Fu, Fei Li, Jian Xiong, Junjun He, Xiulan Zhang, Yu Qiao.*<br>
  [[PDF](https://ieeexplore.ieee.org/abstract/document/9422770)]
  
-### 3. Heterologous Stream with Visual Grounding
-Coming soon... 
+### 3. Heterologous Stream for Visual Grounding
+
+**MDETR - Modulated Detection for End-to-End Multi-Modal Understanding.** [26th Apr. 2021] [ICCV 2021].<br>
+*Aishwarya Kamath, Mannat Singh, Yann Lecun, Gabriel Synnaeve, Ishan Misra, Nicolas Carion.*<br>
+ [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Kamath_MDETR_-_Modulated_Detection_for_End-to-End_Multi-Modal_Understanding_ICCV_2021_paper.pdf)] [[Github](https://github.com/ashkamath/mdetr)] 
+ 
+**Referring Transformer: A One-step Approach to Multi-task Visual Grounding.** [6th Jun. 2021] [NeurIPS 2021].<br>
+*Muchen Li, Leonid Sigal.*<br>
+ [[PDF](https://arxiv.org/abs/2106.03089)]
+ 
+**Visual Grounding with Transformer.** [10th May 2021] [ICME 2022].<br>
+*Ye Du, Zehua Fu, Qingjie Liu, Yunhong Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2105.04281)] [[Github](https://github.com/usr922/VGTR)]
+ 
+**TransVG: End-to-End Visual Grounding with Transformers.** [17th Apr. 2021] [ICCV 2021].<br>
+*Jiajun Deng, Zhengyuan Yang, Tianlang Chen, Wengang Zhou, Houqiang Li.*<br>
+ [[PDF](https://arxiv.org/abs/2104.08541)] [[Github](https://github.com/djiajunustc/TransVG)]
+ 
+**Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding.** [16th Mar. 2022] [CVPR 2022].<br>
+*Haojun Jiang, Yuanze Lin, Dongchen Han, Shiji Song, Gao Huang.*<br>
+ [[PDF](https://arxiv.org/abs/2203.08481)] [[Github](https://github.com/leaplabthu/pseudo-q)]
+  
+**LanguageRefer: Spatial-Language Model for 3D Visual Grounding.** [17th Jul. 2021] [ICoL 2021].<br>
+*Junha Roh, Karthik Desingh, Ali Farhadi, Dieter Fox.*<br>
+ [[PDF](https://arxiv.org/abs/2107.03438)]
+ 
+**TransRefer3D: Entity-and-Relation Aware Transformer for Fine-Grained 3D Visual Grounding.** [5th Aug. 2021] [ACMM 2021].<br>
+*Dailan He, Yusheng Zhao, Junyu Luo, Tianrui Hui, Shaofei Huang, Aixi Zhang, Si Liu.*<br>
+ [[PDF](https://arxiv.org/abs/2108.02388)]
+ 
+**Multi-View Transformer for 3D Visual Grounding.** [5th Apr. 2022] [CVPR 2022].<br>
+*Shijia Huang, Yilun Chen, Jiaya Jia, LiWei Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2204.02174)] [[Github](https://github.com/sega-hsj/mvt-3dvg)]
+ 
+**Human-centric Spatio-Temporal Video Grounding With Visual Transformers.** [10th Nov. 2020] [TCSVT 2021].<br>
+*Zongheng Tang, Yue Liao, Si Liu, Guanbin Li, Xiaojie Jin, Hongxu Jiang, Qian Yu, Dong Xu.*<br>
+ [[PDF](https://arxiv.org/abs/2204.02174)] [[Github](https://github.com/tzhhhh123/HC-STVG)]
+ 
+**TubeDETR: Spatio-Temporal Video Grounding with Transformers.** [30th Mar. 2022] [CVPR 2022].<br>
+*Antoine Yang, Antoine Miech, Josef Sivic, Ivan Laptev, Cordelia Schmid.*<br>
+ [[PDF](https://arxiv.org/abs/2203.16434)] [[Github](https://github.com/antoyang/TubeDETR)]
+ 
+
+ 
 ### 4. Heterologous Stream with Visual Descrtiption
 Coming soon... 
 
