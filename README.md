@@ -357,10 +357,6 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
  [[PDF](https://arxiv.org/abs/2012.11409)] [[Github](https://github.com/Vladimir2506/Pointformer)]
  
 **Embracing Single Stride 3D Object Detector with Sparse Transformer.** [13th Dec. 2021].<br>
-*Lue Fan, Ziqi Pang, Tianyuan Zhang, Yu-Xiong Wang, Hang Zhao, Feng Wang, Naiyan Wang, Zhaoxiang Zhang .*<br>
- [[PDF](https://arxiv.org/abs/2112.06375)] [[Github](https://github.com/tusimple/sst)]
- 
-**Embracing Single Stride 3D Object Detector with Sparse Transformer.** [13th Dec. 2021].<br>
 *Lue Fan, Ziqi Pang, Tianyuan Zhang, Yu-Xiong Wang, Hang Zhao, Feng Wang, Naiyan Wang, Zhaoxiang Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2112.06375)] [[Github](https://github.com/tusimple/sst)]
  
