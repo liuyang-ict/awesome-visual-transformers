@@ -514,11 +514,36 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
  
 
  
-### 4. Heterologous Stream with Visual Descrtiption
-Coming soon... 
+### 4. Heterologous Stream with Visual-Linguistic Pre-Training:
+**VideoBERT: A Joint Model for Video and Language Representation Learning.** [3rd Apr. 2019] [ICCV 2019].<br>
+*Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid.*<br>
+ [[PDF](https://arxiv.org/abs/1904.01766)] [[Github](https://github.com/ammesatyajit/VideoBERT)]
+ 
+**ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.** [3th Aug. 2019] [NeurIPS 2019].<br>
+*Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee.*<br>
+ [[PDF](https://arxiv.org/abs/1908.02265)] [[Github](https://github.com/facebookresearch/vilbert-multi-task)]
+ 
+**LXMERT: Learning Cross-Modality Encoder Representations from Transformers.** [20th Aug. 2019] [IJCNLP 2019].<br>
+*Hao Tan, Mohit Bansal.*<br>
+ [[PDF](https://arxiv.org/abs/1908.07490)] [[Github](https://github.com/airsplay/lxmert)]
+ 
+**VisualBERT: A Simple and Performant Baseline for Vision and Language.** [20th Aug. 2019].<br>
+*Liunian Harold Li, Mark Yatskar, Da Yin, Cho-Jui Hsieh, Kai-Wei Chang.*<br>
+ [[PDF](https://arxiv.org/abs/1908.03557)] [[Github](https://github.com/uclanlp/visualbert)]
+ 
+**VL-BERT: Pre-training of Generic Visual-Linguistic Representations.** [22nd Aug. 2019] [ICLR 2020].<br>
+*Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai.*<br>
+ [[PDF](https://arxiv.org/abs/1908.08530)] [[Github](https://github.com/jackroos/VL-BERT)]
+ 
+**UNITER: UNiversal Image-TExt Representation Learning.** [24th Sep. 2019] [ECCV 2020].<br>
+*Yen-Chun Chen, Linjie Li, Licheng Yu, Ahmed El Kholy, Faisal Ahmed, Zhe Gan, Yu Cheng, Jingjing Liu.*<br>
+ [[PDF](https://arxiv.org/abs/1909.11740)] [[Github](https://github.com/ChenRocks/UNITER)]
+ 
+**Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks.** [13th Apr. 2019] [ECCV 2020].<br>
+*Xiujun Li, Xi Yin, Chunyuan Li, Pengchuan Zhang, Xiao-Wei Hu, Lei Zhang, Lijuan Wang, Houdong Hu, Li Dong, Furu Wei, Yejin Choi, Jianfeng Gao.*<br>
+ [[PDF](https://arxiv.org/abs/1909.11740)] [[Github](https://github.com/microsoft/Oscar)]
+ 
 
-# Theoretical
-Coming soon... 
 
 # Citation
 
