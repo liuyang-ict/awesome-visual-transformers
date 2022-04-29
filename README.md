@@ -6,7 +6,7 @@
 ![odyssey](fig/odyssey.png)
 
 
-A curated list of awesome visual Transformers resources (**corresponding to the original order of our survey**), inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. If you find some overlooked papers, please open an issue or contact at liuyang20c@mails.ucas.ac.cn.
+There is a curated list of awesome visual Transformers resources (**corresponding to the original order of our survey**). We will regularly update the latest representaive literatures and their released source code on this page. If you find some overlooked literatures, please make an issue or contact at liuyang20c@mails.ucas.ac.cn.
 
 # Overview
 - [Original Transformer](#original-transformer)
@@ -15,7 +15,6 @@ A curated list of awesome visual Transformers resources (**corresponding to the 
 - [Transformer for Segmentation](#transformer-for-segmentation)
 - [Transformer for 3D Visual Recognition](#transformer-for-3d-visual-recognition)
 - [Transformer for Multi-Sensory Data Stream](#transformer-for-multi-sensory-data-stream)
-- [Theoretical](#theoretical)
 
 
 # Original Transformer
