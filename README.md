@@ -542,6 +542,42 @@ There is a curated list of awesome visual Transformers resources (**correspondin
 *Xiujun Li, Xi Yin, Chunyuan Li, Pengchuan Zhang, Xiao-Wei Hu, Lei Zhang, Lijuan Wang, Houdong Hu, Li Dong, Furu Wei, Yejin Choi, Jianfeng Gao.*<br>
  [[PDF](https://arxiv.org/abs/1909.11740)] [[Github](https://github.com/microsoft/Oscar)]
  
+**Unified Vision-Language Pre-Training for Image Captioning and VQA.** [24th Sep. 2019] [AAAI 2020].<br>
+*Luowei Zhou, Hamid Palangi, Lei Zhang, Houdong Hu, Jason J. Corso, Jianfeng Gao.*<br>
+ [[PDF](https://arxiv.org/abs/1909.11059)] [[Github](https://github.com/LuoweiZhou/VLP)]
+ 
+**ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision.** [5th Feb. 2020] [ICML 2020].<br>
+*Wonjae Kim, Bokyung Son, Ildoo Kim.*<br>
+ [[PDF](https://arxiv.org/abs/2102.03334)] [[Github](https://github.com/dandelin/vilt)]
+ 
+**VinVL: Revisiting Visual Representations in Vision-Language Models.** [2nd Jan. 2021] [CVPR 2021].<br>
+*Pengchuan Zhang, Xiujun Li, Xiaowei Hu, Jianwei Yang, Lei Zhang, Lijuan Wang, Yejin Choi, Jianfeng Gao.*<br>
+ [[PDF](https://arxiv.org/abs/2101.00529)] [[Github](https://github.com/pzzhang/VinVL)]
+ 
+**Learning Transferable Visual Models From Natural Language Supervision.** [26th Feb. 2021] [ICML 2021].<br>
+*Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
+ [[PDF](https://arxiv.org/abs/2103.00020)] [[Github](https://github.com/openai/CLIP)]
+ 
+**Zero-Shot Text-to-Image Generation.** [24th Feb. 2021] [ICML 2021].<br>
+*Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever.*<br>
+ [[PDF](https://arxiv.org/abs/2102.12092)] [[Github](https://github.com/openai/DALL-E)]
+ 
+**Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision.** [11th Feb. 2021] [ICML 2021].<br>
+*Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, YunHsuan Sung, Zhen Li, Tom Duerig.*<br>
+ [[PDF](https://arxiv.org/abs/2102.05918)] [[Github](https://github.com/MicPie/clasp)]
+ 
+**UniT: Multimodal Multitask Learning with a Unified Transformer.** [22nd Feb. 2021] [ICCV 2021].<br>
+*Ronghang Hu, Amanpreet Singh.*<br>
+ [[PDF](https://arxiv.org/abs/2102.10772)] [[Github](https://github.com/facebookresearch/mmf/tree/main/projects/unit)]
+ 
+**SimVLM: Simple Visual Language Model Pretraining with Weak Supervision.** [24th Aug. 2021] [ICLR 2022].<br>
+*ZiRui Wang, Jiahui Yu, Adams Wei Yu, Zihang Dai, Yulia Tsvetkov, Yuan Cao.*<br>
+ [[PDF](https://arxiv.org/abs/2108.10904)] 
+ 
+**data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language.** [7th Feb. 2022].<br>
+*Alexei Baevski, Wei-Ning Hsu, Qiantong Xu, Arun Babu, Jiatao Gu, Michael Auli.*<br>
+ [[PDF](https://arxiv.org/abs/2102.10772)] [[Github](https://github.com/pytorch/fairseq/tree/main/examples/data2vec)]
+ 
 
 
 # Citation
