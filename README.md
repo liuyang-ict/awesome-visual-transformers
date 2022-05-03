@@ -18,9 +18,8 @@ There is a comprehensive list of awesome visual Transformers literatures corresp
 
 
 # Original Transformer
-**Attention Is All You Need.** <br>
+**Attention Is All You Need.** [12th Jun. 2017] [NeurIPS, 2017].<br>
 *Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin.*<br>
-[12th Jun. 2017] [NeurIPS, 2017].<br>
 [[PDF](https://arxiv.org/abs/1706.03762)] [[Github](https://github.com/tensorflow/tensor2tensor)]
 
 # Transformer for Classification
