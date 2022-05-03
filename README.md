@@ -6,9 +6,9 @@
 ![odyssey](fig/odyssey.png)
 
 
-There is a curated list of awesome visual Transformers resources (**corresponding to the original order of our survey**). We will regularly update the latest representaive literatures and their released source code on this page. If you find some overlooked literatures, please make an issue or contact at liuyang20c@mails.ucas.ac.cn.
+There is a comprehensive list of awesome visual Transformers literatures corresponding to the original order of our survey ([A Survey of Visual Transformers](https://arxiv.org/abs/2111.06091)). We will regularly update the latest representaive literatures and their released source code on this page. If you find some overlooked literatures, please make an issue or contact at liuyang20c@mails.ucas.ac.cn.
 
-# Overview
+# Content
 - [Original Transformer](#original-transformer)
 - [Transformer for Classification](#transformer-for-classification)
 - [Transformer for Detection](#transformer-for-detection)
@@ -18,9 +18,10 @@ There is a curated list of awesome visual Transformers resources (**correspondin
 
 
 # Original Transformer
-**Attention Is All You Need.** [12th Jun. 2017] [NeurIPS, 2017].<br>
+**Attention Is All You Need.** <br>
 *Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin.*<br>
- [[PDF](https://arxiv.org/abs/1706.03762)] [[Github](https://github.com/tensorflow/tensor2tensor)]
+[12th Jun. 2017] [NeurIPS, 2017].<br>
+[[PDF](https://arxiv.org/abs/1706.03762)] [[Github](https://github.com/tensorflow/tensor2tensor)]
 
 # Transformer for Classification
 
