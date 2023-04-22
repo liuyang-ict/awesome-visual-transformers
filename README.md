@@ -1,4 +1,4 @@
-# <p align=center> [A Survey of Visual Transformers](https://arxiv.org/abs/2111.06091)</p>
+# <p align=center> [A Survey of Visual Transformers](https://ieeexplore.ieee.org/abstract/document/10088164)</p>
 
   
 ##### <p align=center> [Yang Liu](https://scholar.google.com/citations?user=ock4qjYAAAAJ&hl=zh-CN), [Yao Zhang](https://scholar.google.com/citations?user=vxfJSJIAAAAJ&hl=zh-CN), [Yixin Wang](https://scholar.google.com/citations?user=ykYrXtAAAAAJ&hl=zh-CN), [Feng Hou](https://scholar.google.com/citations?user=gp-OCDoAAAAJ&hl=zh-CN), [Jin Yuan](https://scholar.google.com/citations?hl=zh-CN&user=S1JGPCMAAAAJ), [Jiang Tian](https://scholar.google.com/citations?user=CC_HnVQAAAAJ&hl=zh-CN), [Yang Zhang](https://scholar.google.com/citations?user=fwg2QysAAAAJ&hl=zh-CN), [Zhongchao Shi](https://scholar.google.com/citations?hl=zh-CN&user=GASgQxEAAAAJ), [JianPing Fan](https://scholar.google.com/citations?user=-YsOqQcAAAAJ&hl=zh-CN), [Zhiqiang He](https://ieeexplore.ieee.org/author/37085386255)</p>
@@ -6,7 +6,7 @@
 ![odyssey](fig/odyssey.png)
 
 
-There is a comprehensive list of awesome visual Transformers literatures corresponding to the original order of our survey ([A Survey of Visual Transformers](https://arxiv.org/abs/2111.06091)). We will regularly update the latest representaive literatures and their released source code on this page. If you find some overlooked literatures, please make an issue or contact at liuyang20c@mails.ucas.ac.cn.
+There is a comprehensive list of awesome visual Transformers literatures corresponding to the original order of our survey ([A Survey of Visual Transformers](https://ieeexplore.ieee.org/abstract/document/10088164)) published in IEEE Transactions on Neural Networks and Learning Systems (TNNLS). We will regularly update the latest representaive literatures and their released source code on this page. If you find some overlooked literatures, please make an issue or contact at liuyang20c@mails.ucas.ac.cn.
 
 # Content
 - [Original Transformer](#original-transformer)
@@ -15,7 +15,7 @@ There is a comprehensive list of awesome visual Transformers literatures corresp
 - [Transformer for Segmentation](#transformer-for-segmentation)
 - [Transformer for 3D Visual Recognition](#transformer-for-3d-visual-recognition)
 - [Transformer for Multi-Sensory Data Stream](#transformer-for-multi-sensory-data-stream)
-- [Other Awesome Transformer Attention Model Lists](#list)
+- [Other Awesome Transformer Attention Model Lists](#more-awesome-transformer-attention-model-lists)
 
 
 # Original Transformer
@@ -580,7 +580,8 @@ There is a comprehensive list of awesome visual Transformers literatures corresp
  [[PDF](https://arxiv.org/abs/2102.10772)] [[Github](https://github.com/pytorch/fairseq/tree/main/examples/data2vec)]
  
 # More Awesome Transformer Attention Model Lists
-https://github.com/cmhungsteve/Awesome-Transformer-Attention
+[[cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)]
+
 # Citation
 
 If you find the listing and survey helpful, please cite it as follows:
