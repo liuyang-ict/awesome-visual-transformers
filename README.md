@@ -580,7 +580,7 @@ There is a comprehensive list of awesome visual Transformers literatures corresp
  [[PDF](https://arxiv.org/abs/2102.10772)] [[Github](https://github.com/pytorch/fairseq/tree/main/examples/data2vec)]
  
 # More Awesome Transformer Attention Model Lists
-[[cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)]
+[cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 
 # Citation
 
