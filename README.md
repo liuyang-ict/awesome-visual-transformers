@@ -15,6 +15,7 @@ There is a comprehensive list of awesome visual Transformers literatures corresp
 - [Transformer for Segmentation](#transformer-for-segmentation)
 - [Transformer for 3D Visual Recognition](#transformer-for-3d-visual-recognition)
 - [Transformer for Multi-Sensory Data Stream](#transformer-for-multi-sensory-data-stream)
+- [Other Awesome Transformer Attention Model Lists](#list)
 
 
 # Original Transformer
@@ -578,8 +579,8 @@ There is a comprehensive list of awesome visual Transformers literatures corresp
 *Alexei Baevski, Wei-Ning Hsu, Qiantong Xu, Arun Babu, Jiatao Gu, Michael Auli.*<br>
  [[PDF](https://arxiv.org/abs/2102.10772)] [[Github](https://github.com/pytorch/fairseq/tree/main/examples/data2vec)]
  
-
-
+# More Awesome Transformer Attention Model Lists
+https://github.com/cmhungsteve/Awesome-Transformer-Attention
 # Citation
 
 If you find the listing and survey helpful, please cite it as follows:
