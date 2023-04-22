@@ -584,11 +584,12 @@ There is a comprehensive list of awesome visual Transformers literatures corresp
 
 If you find the listing and survey helpful, please cite it as follows:
 ```
-@article{liu2021survey,
-  title={A Survey of Visual Transformers},
+@article{liu2023survey,
+  title={A survey of visual transformers},
   author={Liu, Yang and Zhang, Yao and Wang, Yixin and Hou, Feng and Yuan, Jin and Tian, Jiang and Zhang, Yang and Shi, Zhongchao and Fan, Jianping and He, Zhiqiang},
-  journal={arXiv preprint arXiv:2111.06091},
-  year={2021}
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2023},
+  publisher={IEEE}
 }
 
 ```
